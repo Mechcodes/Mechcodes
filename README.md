@@ -1,4 +1,4 @@
-![logo](https://avatars.githubusercontent.com/u/164879896?v=4)
+![logo](https://t3.ftcdn.net/jpg/02/92/88/72/240_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg)
 <h1 align="center">Hi 👋, I'm Rajat Bora</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
