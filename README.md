@@ -1,6 +1,7 @@
 ![logo](https://t4.ftcdn.net/jpg/03/44/17/87/240_F_344178721_CyhVfjDIsl42Me7DpdRT5UOHmbmfG0qI.jpg)
 <h1 align="center">Hi 👋, I'm Rajat Bora</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<p><a href="https://avatars.githubusercontent.com/u/164879896?v=4" alt="Rajat Bora"></a></p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
