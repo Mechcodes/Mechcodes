@@ -1,4 +1,4 @@
-![logo]([https://t4.ftcdn.net/jpg/03/44/17/87/240_F_344178721_CyhVfjDIsl42Me7DpdRT5UOHmbmfG0qI.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s))
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Ftechnology%2Falgorithm-funny-13634.html&psig=AOvVaw3cj_11y7GKNJjZ5VhEv9eW&ust=1725589654483000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCQrMjgqogDFQAAAAAdAAAAABBE)
 <h1 align="center">Hi 👋, I'm Rajat Bora</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p><a href="https://avatars.githubusercontent.com/u/164879896?v=4" alt="Rajat Bora"></a></p>
