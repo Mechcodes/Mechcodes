@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Ftechnology%2Falgorithm-funny-13634.html&psig=AOvVaw3cj_11y7GKNJjZ5VhEv9eW&ust=1725589654483000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCQrMjgqogDFQAAAAAdAAAAABBE)
+![logo](https://4kwallpapers.com/images/walls/thumbs_3t/13648.png)
 <h1 align="center">Hi 👋, I'm Rajat Bora</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p><a href="https://avatars.githubusercontent.com/u/164879896?v=4" alt="Rajat Bora"></a></p>
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at Netilfy..
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **Bugs don't bite , they take your time 😅😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
