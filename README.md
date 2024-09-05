@@ -1,4 +1,4 @@
-![logo](https://4kwallpapers.com/images/walls/thumbs_3t/13648.png)
+![logo](https://img-9gag-fun.9cache.com/photo/aypAAjV_700bwp.webp)
 <h1 align="center">Hi 👋, I'm Rajat Bora</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p><a href="https://avatars.githubusercontent.com/u/164879896?v=4" alt="Rajat Bora"></a></p>
