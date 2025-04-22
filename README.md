@@ -23,6 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mechcodes&show_icons=true&locale=en&layout=compact" alt="Mechcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mechcodes&show_icons=true&locale=en" alt="Mechcodes" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=Mechcodes&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=Mechcodes&show_icons=true&theme=transparent)" alt="Mechcodes" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mechcodes&show_icons=true&theme=transparent" alt="Mechcodes" /></p>
